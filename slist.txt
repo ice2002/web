@@ -1,0 +1,14 @@
+1=正式服|小雪|小雪|193.112.99.127|7000|1
+1=测试服|小雪|小雪|127.0.0.1|7000|0
+
+公告地址=http://mini.17pk.pub/mini.html
+官方首页=http://i.17pk.pub
+更新地址=http://i.17pk.pub
+版本号=20131212
+刷新速度=60
+自动展开=1
+列表颜色=CD6600
+快捷方式=1
+
+;效验MD5=map\trial.map|16295d2098e0f3b9cb158e790b8a2a70|http://i.17pk.pub/map.7z
+效验MD5=Favorites.xml|cbc1dc68f6d2d928c0122fdf38a4cbf5|http://mini.17pk.pub/Favorites.7z
